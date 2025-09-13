@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 Hey, I'm Hazel 👋, an ISTP who loves all things practical. I can hyper-focus for hours (or be impressively lazy), play piano by ear 🎹, and spot patterns faster than I lose focus. Currently learning cloud ☁️, PySpark, and scalable data systems. Numbers? My jam. Math proofs? Hard pass.
 
 ### 🚀 I'm currently working on
