@@ -1,32 +1,17 @@
 # About Me
-Hey, I'm Hazel 👋, an ISTP who loves all things practical. I can hyper-concentrate for hours (or be impressively lazy), play piano by ear 🎹, and spot patterns faster than I lose focus. Currently learning cloud ☁️, PySpark, and scalable data systems. 
-
-Numbers? My jam. Math proofs? Hard pass.
+Hey, I'm Hazel 👋, an ISTP who loves all things practical. I can hyper-concentrate for hours (or be impressively lazy), and play piano by ear 🎹. Currently learning cloud ☁️, PySpark, and scalable data systems. 
 
 ### 🚀 I'm currently working on
 - 🖼️ Handling **18M+ road images (~15 TB)** in Purdue’s Smart Cities project *(a.k.a. training my laptop to cry)*  
 - 🔧 Tinkering with **data pipelines** that don’t break at 2 a.m. *(most of the time)*  
-
-### 🤝 I'm looking to collaborate on
-- ⚡ Building **scalable ETL/data workflows** (Python, SQL, Spark, Airflow, you name it)  
-- 🧠 Applied **ML projects** where infrastructure meets modeling  
-
-### 🆘 I'm looking for help with
-- ☁️ Leveling up in **cloud-based data engineering** (AWS/GCP pipelines, warehouse design)  
-- 📂 Smarter ways to **manage & version massive datasets**  
 
 ### 📚 I'm currently learning
 - 🔥 **PySpark & distributed systems** (because 1 core isn’t enough)  
 - 🐳 **AWS (S3, Redshift, Lambda) + Docker** for data workflows  
 - 📊 **Experiment tracking & deployment with MLflow**  
 
-### 💡 Ask me about
-- 🏭 Building an **IT Asset Management System** in 6 weeks that 100+ people actually used  
-- 🧹 Cleaning & restructuring **6,000+ records** until they looked civilized  
-- 🐛 Debugging data pipelines **without losing my sanity** *(subject to debate)*  
-
 ### 🎲 Fun fact
-- I **love making plans** but never follow them — so I guess my real skill is *ad-hoc optimization* 😎  
+- I **love making plans** but never follow them :) 
 
 
 ## 🌐 Socials:
