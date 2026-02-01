@@ -2,11 +2,10 @@
 Hey, I'm Hazel 👋, an ISTP who loves all things practical. I can hyper-concentrate for hours (or be impressively lazy), and play piano by ear 🎹. Currently learning cloud ☁️, PySpark, and scalable data systems. 
 
 ### 🚀 I'm currently working on
-- 🖼️ Handling **18M+ road images (~15 TB)** in Purdue’s Smart Cities project *(a.k.a. training my laptop to cry)*  
-- 🔧 Tinkering with **data pipelines** that don’t break at 2 a.m. *(most of the time)*  
+- Myself  
 
 ### 📚 I'm currently learning
-- 🔥 **PySpark & distributed systems** (because 1 core isn’t enough)  
+- 🔥 **PySpark & distributed systems** 
 - 🐳 **AWS (S3, Redshift, Lambda) + Docker** for data workflows  
 - 📊 **Experiment tracking & deployment with MLflow**  
 
